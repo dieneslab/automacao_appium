@@ -1,0 +1,18 @@
+{
+  "name": "automacao_appium",
+  "version": "1.0.0",
+  "description": "- Requirements\r 1. VSCode\r 2. Node.js\r 3. Windows Terminal\r 4. Git for Windows + Bash\r 5. Instalar JDK \r 6. Android Studio (developer.android.com)\r     - More Actions > Virtual Device Manager > Play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dienes Stein",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^2.19.0",
+    "appium-doctor": "^1.16.2"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^2.19.0"
+  }
+}
