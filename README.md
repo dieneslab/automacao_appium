@@ -169,9 +169,9 @@ robot --outputdir .\results\ .\tests\
 ├── 📂 resources            # Arquivos de recursos e keywords reutilizáveis
 │   └── 📜 common_keywords.robot
 ├── 📂 results
-│   ├── 📜 output.xml           # Arquivo de resultados do Robot Framework
-│   ├── 📜 log.html             # Log detalhado da execução
-│   └── 📜 report.html          # Relatório de execução
+│   ├── 📜 output.xml       # Arquivo de resultados do Robot Framework
+│   ├── 📜 log.html         # Log detalhado da execução
+│   └── 📜 report.html      # Relatório de execução
 └── 📜 README.md            # Documentação do projeto
 ```
 
